@@ -7,3 +7,18 @@ sample = "Hello, how are you doing"
 """
 
 print(sample.casefold())
+print(sample.center(60,"#"))
+
+# Reverse String
+print(sample[::-1])
+
+sample_1 = "abc"
+print(tuple(sample_1), list(sample_1))
+
+sample = "Hello, how are you doing"
+
+print(sample.split(" "))
+print("#".join(sample.split(" ")))
+
+# concatenation :  joining 2 strings
+print("a" + "#" + "b") # a#b
