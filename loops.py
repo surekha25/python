@@ -1,3 +1,6 @@
+# while loop can be used when we know when to end
+# for loop can be used when we don't know when to end
+
 # value = 0
 
 # while value < 10:
